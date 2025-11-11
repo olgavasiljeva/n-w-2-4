@@ -1,0 +1,23 @@
+{
+  "name": "n-w-2-4",
+  "version": "1.0.0",
+  "description": "practice for architecture",
+  "homepage": "https://github.com/olgavasiljeva/architecture-node-tasks#readme",
+  "bugs": {
+    "url": "https://github.com/olgavasiljeva/architecture-node-tasks/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olgavasiljeva/architecture-node-tasks.git"
+  },
+  "license": "ISC",
+  "author": "Olga",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
